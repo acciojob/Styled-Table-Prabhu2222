@@ -1,1 +1,28 @@
 /* your code */
+table{
+	border-collapse:collapse;
+	border:1px solid grey;
+	border-style:
+}
+thead{
+	background-color:mediumaquamarine;
+}
+th{	
+	color:white;
+	text-align: left;
+	width:300px;
+	padding:6px 20px 6px 10px;
+	font-family:Arial;
+	font-size:10px
+}
+td{
+	text-align:left;
+	padding-top:10px;
+    padding-bottom:10px;
+    padding-left:10px;
+	padding-right:20px;
+}
+tr:nth-child(even){
+	background-color:grey;
+
+}
